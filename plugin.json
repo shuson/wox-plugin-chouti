@@ -1,0 +1,12 @@
+{
+  "ID":"fe67xe7089cba1e5a7dc851f228d07e3",
+  "ActionKeyword":"chouti",
+  "Name":"chouti",
+  "Description":"抽屉新热榜",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-chouti",
+  "IcoPath": "img\\chouti.png",
+  "ExecuteFileName":"chouti.py"
+}
